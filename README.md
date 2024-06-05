@@ -30,4 +30,5 @@ Let's Connect and have a Chat!💬
 
 
 - 👀 I’m interested in `Cybersecurity & networking`.
+- 🌱 I’m completed `CEH` certified ethical hacker.
 - 📫 Reach me on pavanpolisetti9@gmail.com.
