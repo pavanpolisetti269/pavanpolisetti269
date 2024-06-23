@@ -19,13 +19,13 @@
   <a href="https://www.linkedin.com/in/pavan-polisetti" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://twitter.com/pavan_polisetti](https://x.com/PavanPolisetti9)" target="_blank">
+  <a href="https://x.com/PavanPolisetti9" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/PolisettiSriPavan" target="_blank">
+  <a href="https://github.com/pavanpolisetti269" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.hackerrank.com/pavan_polisetti" target="_blank">
+  <a href="https://www.hackerrank.com/profile/RA2111030010269" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
 </p>
