@@ -20,9 +20,7 @@ Let's Connect and have a Chat!💬
 <a href="https://medium.com/pavan-polisetti">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 
-<a href="https://www.youtube.com/pavan-polisettix">
-  <img height="50" src="https://github.com/assets/130784457/2c69614f-b63f-404d-b727-64ed0282ab7d.png"/>
-</a>
+
 <a href="https://www.instagram.com/pavan-polisetti">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
