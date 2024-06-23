@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+cybersecurity+analyst;Let's+connect+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+CyberSecurity+Analyst;Let's+connect+%F0%9F%91%8B" />
 </p>
 
 <!-- Introduction -->
