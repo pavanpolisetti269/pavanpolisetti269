@@ -3,10 +3,17 @@
 </p>
 
 <h1 align="center">
-  I'm POLISETTI SRI PAVAN
-  
-  Let's Connect and have a Chat!💬
+  <a href="https://github.com/PolisettiSriPavan" style="text-decoration: none; color: inherit;">
+    <span style="display: inline-block; animation: wave 2s infinite;">
+      👋
+    </span>
+    I'm POLISETTI SRI PAVAN
+  </a>
 </h1>
+
+<h2 align="center">
+  Let's Connect and have a Chat!💬
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-polisetti">
@@ -15,11 +22,11 @@
 
   
   <a href="https://www.hackerrank.com/pavan_polisetti">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974956-971eeed0-3aeb-4b06-b6f6-5e2f6e9e8a67.png" alt="HackerRank"/>
+    <img height="50" src="https://raw.githubusercontent.com/PolisettiSriPavan/pavan-polisetti/main/hackerrank_icon.png" alt="HackerRank"/>
   </a>
   
   <a href="https://twitter.com/pavan_polisetti">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166975123-33e7e0cd-dc7d-439d-89b6-3e51b3a1a594.png" alt="Twitter"/>
+    <img height="50" src="https://raw.githubusercontent.com/PolisettiSriPavan/pavan-polisetti/main/twitter_icon.png" alt="Twitter"/>
   </a>
 </p>
 
