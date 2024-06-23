@@ -2,30 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  <a href="https://github.com/PolisettiSriPavan" style="text-decoration: none; color: inherit;">
-    <span class="wave">👋</span>
-    <span class="gradient-text">I'm POLISETTI SRI PAVAN</span>
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+cybersecurity+analyst;Let's+connect+%F0%9F%91%8B" />
+</p>
 
-<h2 align="center" class="gradient-text">
-  Let's Connect and have a Chat!💬
-</h2>
+<!-- Introduction -->
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <p align="center">
+    <b>Hi there, I'm POLISETTI SRI PAVAN 👋</b>
+  </p>
+</div>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavan-polisetti">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pavan-polisetti" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  
-  <a href="https://www.hackerrank.com/pavan_polisetti">
-    <img height="50" src="https://raw.githubusercontent.com/PolisettiSriPavan/pavan-polisetti/main/hackerrank_icon.png" alt="HackerRank"/>
+  <a href="https://twitter.com/pavan_polisetti" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-      
-  <a href="https://twitter.com/pavan_polisetti">
-    <img height="50" src="https://raw.githubusercontent.com/PolisettiSriPavan/pavan-polisetti/main/twitter_icon.png" alt="Twitter"/>
- </a>
+  <a href="https://github.com/PolisettiSriPavan" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://yourblog.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white" alt="Blog">
   </a>
 </p>
 
